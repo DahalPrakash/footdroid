@@ -1,16 +1,5 @@
-{
-
-    "status": "ok",
-    "totalResults": 38,
-    
-    "articles": [
-        
+        [
         {
-            
-            "source": {
-                "id": null,
-                "name": "BBC"
-            },
             "author": "Liverpool",
             "title": "Jordan Henderson: Premier League trophy win without fans would be 'pretty strange'",
             "description": "Playing at Anfield and lifting the Premier League trophy without any fans will be pretty strange, says Liverpool captain Jordan Henderson.",
@@ -21,11 +10,6 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "Sky Sports"
-            },
             "author": "Arsenal",
             "title": "Arsenal Women fined by FA over autistic coach's dismissal",
             "description": "FA fines Women's Super League club £50,000 and will require some members of staff to undertake education programme",
@@ -36,11 +20,7 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "Sky Sports"
-            },
+          
             "author": "Lyall Thomas",
             "title": "Arthur won't join Juventus after reiterating desire to stay at Barcelona",
             "description": "Barcelona's Arthur will not be joining Juventus this summer.",
@@ -52,11 +32,7 @@
         
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "The Washington Post"
-            },
+           
             "author": "Arsenal",
             "title": "David Luiz faces Arsenal exit with no contract extension talks planned",
             "description": "Sky Sports News has learned Luiz moved to the Emirates on a oneyear deal, rather than the widelyreported twoyear contract",
@@ -67,11 +43,6 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "Goal"
-            },
             "author": "Jonathan Smith",
             "title": "De Bruyne ready to commit longterm future to Manchester City",
             "description": "Belgium midfielder is open to contract talks as Premier League champions get ready for appeal over Champions League ban",
@@ -83,10 +54,6 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "Goal"
-            },
             "author": "Nizaar Kinsella",
             "title": "Chelsea to cash in on Boga interest with Sassuolo star a target for Roma, Napoli and Milan",
             "description": "Interest is mounting in the Blues' academy graduate following a stellar season in Serie A which has seen some of Italy's top clubs come calling",
@@ -98,10 +65,6 @@
         
         {
             
-            "source": {
-                "id": "thewashingtonpost",
-                "name": "The Washington Post"
-            },
             "author": "",
             "title": "Kulusevski on meeting Ronaldo, throwing up at San Siro & how he rejected Inter because of Conte's tactics",
             "description": "The Sweden international has revealed the story behind his move to Juventus and ambitions for next season",
@@ -112,11 +75,7 @@
         },
         
         {
-            
-            "source": {
-                "id": "theverge",
-                "name": "The Verge"
-            },
+        
             "author": "Sam Byford",
             "title": "Aaron Ramsdale: Bournemouth 'shook' by positive coronavirus test  Eddie Howe",
             "description": "News of Bournemouth goalkeeper Aaron Ramsdale's positive coronavirus test shook the Premier League club, according to manager Eddie Howe.",
@@ -127,11 +86,7 @@
         },
         
         {
-            
-            "source": {
-                "id": "financialtimes",
-                "name": "Financial Times"
-            },
+          
             "author": null,
             "title": "Global stock rally falters as Hong Kong braces for protests  Financial Times",
             "description": "Investor optimism over recovery from coronavirus hit by rising USChina trade tensions",
@@ -143,10 +98,7 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "Cbslocal.com"
-            },
+           
             "author": "CBS Minnesota",
             "title": "‘I Can’t Breathe!’: Video Of Fatal Arrest Shows Minneapolis Officer Kneeling On George Floyd’s Neck For Several Minutes  CBS Minnesota",
             "description": "An FBI investigation is underway and four officers have been fired following a fatal encounter Monday between Minneapolis police and an unarmed black man.",
@@ -157,12 +109,8 @@
         },
         
         {
-            
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "",
+          
+            "author": "Harry",
             "title": "LG's first 48inch 4K OLED TV is starting to roll out  Engadget",
             "description": "LG's smallest OLED TV is ready to be your 48inch 4K gaming monitor.",
             "url": "https://www.engadget.com/lg48cx4koled022836116.html",
@@ -172,11 +120,7 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
+           
             "author": "Sam Meredith",
             "title": "IEA says the coronavirus crisis has set in motion the largest drop of global energy investment in history  CNBC",
             "description": "The IEA warned the economic impact of the health crisis could have \"serious\" implications for energy security and clean energy transitions.",
@@ -188,10 +132,6 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
             "author": "Eric Mack",
             "title": "A NASA mission like no other: SpaceX makes spaceflight modern again  CNET",
             "description": "The historic Demo2 mission scheduled for May 27 gets astronauts out of the '70s, finally.",
@@ -202,11 +142,7 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
+          
             "author": null,
             "title": "Chase Elliott ends Kyle Busch's Truck Series winning streak, earns $100K bounty  ESPN",
             "description": "Chase Elliott snapped Kyle Busch's sevenrace Truck Series winning streak, earning a $100,000 bounty in the process, on Tuesday at Charlotte Motor Speedway. The money will go to coronavirus pandemic relief efforts.",
@@ -218,10 +154,7 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
+            
             "author": "Vicky McKeever",
             "title": "Here's where in Europe you might be able to go on vacation this summer  CNBC",
             "description": "With more countries easing coronavirus lockdowns in an effort to restart their economies as summer gets underway, CNBC takes a look at where you might be able to go on vacation in the coming months.",
@@ -232,11 +165,7 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
+         
             "author": "Gabriel Fernandez",
             "title": "2020 Stanley Cup odds: Bruins, Golden Knights lead latest odds after NHL releases updated postseason  CBS Sports",
             "description": "All you need to know for Stanley Cup betting action",
@@ -248,10 +177,7 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "Los Angeles Times"
-            },
+         
             "author": "Jaclyn Cosgrove",
             "title": "L.A. County asking state to let businesses to reopen sooner  Los Angeles Times",
             "description": "Los Angeles County officials will apply Wednesday for a process to accelerate reopening some businesses shuttered by the coronavirus outbreak.",
@@ -262,11 +188,7 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "New York Times Australia"
-            },
+           
             "author": "Sydney Ember",
             "title": "Biden, Urging Face Masks, Calls Trump a ‘Fool’ for Not Wearing One  The New York Times",
             "description": "Joseph Biden, in his first inperson interview since the coronavirus curtailed his campaign, suggested the president was being “falsely masculine’’ by refusing to wear a mask.",
@@ -277,11 +199,6 @@
         },
         
         {
-            
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
             "author": null,
             "title": "Trump's 2016 campaign brass warns he's in trouble in 2020  POLITICO",
             "description": "Corey Lewandowski and David Bossie told the president he's down in swing states, prompting campaign chiefs in Arizona and Florida to travel to D.C.",
@@ -292,11 +209,6 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "Theguardian.comworld"
-            },
             "author": "Helen Davidson",
             "title": "Hong Kong crisis: Trump warns China he will take action as protests loom  The Guardian",
             "description": "US president ‘displeased’ with efforts by Beijing to impose national security laws, as Chinese president says military must prepare for confrontations",
@@ -308,10 +220,7 @@
         
         {
             
-            "source": {
-                "id": "thewashingtonpost",
-                "name": "The Washington Post"
-            },
+            
             "author": "Elizabeth Dwoskin",
             "title": "Twitter labels Trump’s tweets with a fact check for the first time  The Washington Post",
             "description": "For the first time, Twitter is slapping a warning label on Trump's tweets, responding to critics who have long said the company was too handsoff and escalating tension between Silicon Valley and Washington.",
@@ -322,11 +231,6 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
             "author": "Vincent Barone",
             "title": "UConn senior accused of killing two men was looking for young woman  New York Post ",
             "description": "The University of Connecticut senior accused of killing two men and injuring another was looking for a young woman he knew as he carried out his murderous spree, according to the wife of one of his…",
@@ -338,10 +242,7 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
+            
             "author": null,
             "title": "Facebook targets FaceTime Audio with its newest experimental app ‘CatchUp’  9to5Mac",
             "description": "As most of the world focuses heavily on video conferencing, Facebook’s new product experimentation team has debuted its latest experimental app dubbed “CatchUp.” As reported by TechCrunch, CatchUp focuses on allowing people to make audio calls with up to eigh…",
@@ -352,11 +253,6 @@
         },
         
         {
-            
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
             "author": "https://www.facebook.com/bbcnews",
             "title": "TV host Jimmy Fallon 'very sorry' for 2000 blackface skit  BBC News",
             "description": "The NBC's Tonight Show host called his depiction of comedian Chris Rock \"unquestionably offensive\".",
@@ -368,10 +264,7 @@
         
         {
             
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
+            
             "author": "Caroline Humer",
             "title": "Fears of coronavirus second wave prompt flu push at U.S. pharmacies, drugmakers  Reuters",
             "description": "U.S. pharmacy chains are preparing a big push for flu vaccinations when the season kicks off in October, hoping to curb tens of thousands of serious cases that could coincide with a second wave of coronavirus infections.",
@@ -383,10 +276,7 @@
         
         {
             
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
+           
             "author": "Alice Scott",
             "title": "Chimpanzees help trace the evolution of human speech back to ancient ancestors  Phys.org",
             "description": "One of the most promising theories for the evolution of human speech has finally received support from chimpanzee communication, in a study conducted by a group of researchers led by the University of Warwick.",
@@ -396,5 +286,3 @@
             "content": "One of the most promising theories for the evolution of human speech has finally received support from chimpanzee communication, in a study conducted by a group of researchers led by the University o… [+3995 chars]"
         }
     ]
-
-}
